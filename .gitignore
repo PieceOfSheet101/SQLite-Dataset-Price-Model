@@ -1,0 +1,9 @@
+*.db
+*.sqlite
+
+*.pyc
+.env
+venv/
+.venv/
+
+.ipynb_checkpoints/
